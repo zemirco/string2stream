@@ -1,13 +1,13 @@
 {
   "name": "string2stream",
   "version": "0.0.1",
-  "description": "Turns a string into a stream",
+  "description": "Converts a string into a stream",
   "scripts": {
     "test": " make test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/isaacs/readable-stream"
+    "url": "git://github.com/zeMirco/string2stream.git"
   },
   "keywords": [
     "convert",
