@@ -1,0 +1,26 @@
+{
+  "name": "string2stream",
+  "version": "0.0.1",
+  "description": "Turns a string into a stream",
+  "scripts": {
+    "test": " make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/readable-stream"
+  },
+  "keywords": [
+    "convert",
+    "string",
+    "stream"
+  ],
+  "author": {
+  	"name": "Mirco Zeiss",
+		"email": "mirco.zeiss@gmail.com",
+		"twitter": "zeMirco"
+  },
+  "devDependencies": {
+    "mocha": "~1.6.0",
+    "should": "~1.2.0"
+  }
+}
