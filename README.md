@@ -2,8 +2,6 @@
 
 Converts a string into a stream by emitting one character after the other.
 
-Closely related to and inspired by Dominic's [readArray](https://github.com/dominictarr/event-stream#readarray-array).
-
 ## Installation
 
     npm install string2stream
