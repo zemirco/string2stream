@@ -32,7 +32,7 @@ or
 
     make test
     
-## Acknowlegements
+## Acknowledgements
 
 Inspired by Dominic's [readArray](https://github.com/dominictarr/event-stream#readarray-array).
     
