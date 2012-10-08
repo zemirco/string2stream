@@ -9,7 +9,7 @@ describe('string2stream', function () {
     string2stream('string').should.have.property('readable', true)
   })
   
-  it('should be writeable', function() {
+  it('should not be writeable', function() {
     string2stream('string').should.have.property('writeable', false)
   })
   
