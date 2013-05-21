@@ -1,5 +1,5 @@
 var should = require('should')
-var string2stream = require('../string2stream')
+var string2stream = require('..')
 var fs = require('fs')
 var Stream = require('stream')
 

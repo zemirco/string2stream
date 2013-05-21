@@ -2,6 +2,7 @@
   "name": "string2stream",
   "version": "0.0.2",
   "description": "Converts a string into a stream",
+  "main": "string2stream",
   "scripts": {
     "test": " make test"
   },
