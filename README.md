@@ -24,7 +24,7 @@ or
     
 ## Test
 
-Tests are written using [mocha](http://visionmedia.github.com/mocha/) and [should](https://github.com/visionmedia/should.js).
+Tests are written using [mocha](http://mochajs.org/) and [should](https://github.com/visionmedia/should.js).
 
     npm test
 
